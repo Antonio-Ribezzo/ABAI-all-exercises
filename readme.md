@@ -1,4 +1,5 @@
-# ABAI - All exercises
+# Artificial Intelligence with Python
 
-- Search with uninformed strategies
-- Search with informed strategies
+- Search 
+  - Depth first search (Stack)
+  - Breadth first search (Queue)
